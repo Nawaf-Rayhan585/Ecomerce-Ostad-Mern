@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "11000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "title": "Asus 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "12000",
+  "discount": true,
+  "discountPrice": "70",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2aabda0c85053c9905"
+  },
+  "title": "Del 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "13000",
+  "discount": true,
+  "discountPrice": "200",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "flash",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2eabda0c85053c9907"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "14000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "64f87d60502e1b80556da15a"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "15000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "16000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da4431ce672f6c8b7961c"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "17000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "top",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da47f1ce672f6c8b7961f"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "18000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "popular",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf1eabda0c85053c98ff"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "19000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf1cabda0c85053c98fe"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "20000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "trending",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf21abda0c85053c9900"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "21000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf23abda0c85053c9901"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "22000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf26abda0c85053c9903"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "23000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "651da4531ce672f6c8b7961e"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+  "price": "24000",
+  "discount": false,
+  "discountPrice": "0",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "special",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf28abda0c85053c9904"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "25000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "654dbf2cabda0c85053c9906"
+  },
+  "title": "Apple 15 Inch MacBook Air (2023)",
+  "shortDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "price": "26000",
+  "discount": true,
+  "discountPrice": "890",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple2.png",
+  "star": "4",
+  "stock": true,
+  "remark": "new",
+  "categoryID": {
+    "$oid": "64f875ed502e1b80556da14d"
+  },
+  "brandID": {
+    "$oid": "64f8751a502e1b80556da142"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

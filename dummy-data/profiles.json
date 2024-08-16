@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "65a2c4b1f1ae62750f402665"
+  },
+  "userID": {
+    "$oid": "65749b6036b023a8b6c5ea73"
+  },
+  "createdAt": {
+    "$date": "2024-01-13T17:13:21.413Z"
+  },
+  "cus_add": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "cus_city": "Dhaka",
+  "cus_country": "Bangladesh",
+  "cus_fax": "01785388919",
+  "cus_name": "Rabbil Hasan",
+  "cus_phone": "01785388919",
+  "cus_postcode": "1207",
+  "cus_state": "Dhaka",
+  "ship_add": "Shekhertek 8,Mohammadpur, Adabor, Dhaka-1207",
+  "ship_city": "Dhaka",
+  "ship_country": "Bangladesh",
+  "ship_name": "Rabbil Hasan",
+  "ship_phone": "01785388919",
+  "ship_postcode": "1207",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2024-02-18T08:37:37.189Z"
+  }
+}]

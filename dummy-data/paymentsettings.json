@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "650ce9fb6fdcbe321fc6a4e0"
+  },
+  "store_id": "teamr600c004f8da4d",
+  "store_passwd": "teamr600c004f8da4d@ssl",
+  "currency": "BDT",
+  "success_url": "http://localhost:5030/api/v1/PaymentSuccess",
+  "fail_url": "http://localhost:5030/api/v1/PaymentFail",
+  "cancel_url": "http://localhost:5030/api/v1/PaymentCancel",
+  "ipn_url": "http://localhost:5030/api/v1/PaymentIPN",
+  "init_url": "https://sandbox.sslcommerz.com/gwprocess/v4/api.php",
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

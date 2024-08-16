@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "653bafe00f61bbc9d3d263ca"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1aeef6c05aa9a79a868a4"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1aef96c05aa9a79a868a5"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf2aabda0c85053c9905"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1af046c05aa9a79a868a6"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf2eabda0c85053c9907"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1af0f6c05aa9a79a868a7"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "64f87d60502e1b80556da15a"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1af196c05aa9a79a868a8"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "651da44d1ce672f6c8b7961d"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1af236c05aa9a79a868a9"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "651da4431ce672f6c8b7961c"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1af2c6c05aa9a79a868aa"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "651da47f1ce672f6c8b7961f"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0886c05aa9a79a868ab"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0966c05aa9a79a868ac"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf1cabda0c85053c98fe"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b09d6c05aa9a79a868ad"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf21abda0c85053c9900"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0a56c05aa9a79a868ae"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf23abda0c85053c9901"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0ac6c05aa9a79a868af"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf26abda0c85053c9903"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0b36c05aa9a79a868b0"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "651da4531ce672f6c8b7961e"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0b96c05aa9a79a868b1"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf28abda0c85053c9904"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1b0c06c05aa9a79a868b2"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf2cabda0c85053c9906"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1c1436c05aa9a79a868c3"
+  },
+  "img1": "https://photo.teamrabbil.com/images/2023/10/08/7.jpeg",
+  "img2": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img3": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img4": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img5": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img6": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img7": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "img8": "https://photo.teamrabbil.com/images/2023/10/08/scaled.jpeg",
+  "des": "<p>&nbsp;</p>\n<p><strong>Processor</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 133px;\" border=\"0.5\" width=\"554\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Brand</td>\n<td class=\"value\" style=\"width: 225.717px;\">Apple</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Model</td>\n<td class=\"value\" style=\"width: 225.717px;\">M1 chip</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Frequency</td>\n<td class=\"value\" style=\"width: 225.717px;\">2.06 - 3.8GHz</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Core</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">Processor Thread</td>\n<td class=\"value\" style=\"width: 225.717px;\">8</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 328.283px;\">CPU Cache</td>\n<td class=\"value\" style=\"width: 225.717px;\">16 MB</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Display</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 123px;\" border=\"0.5\" width=\"600\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Size</td>\n<td class=\"value\" style=\"width: 469.017px;\">13.3-inch</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Type</td>\n<td class=\"value\" style=\"width: 469.017px;\">Retina display with IPS technology</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Resolution</td>\n<td class=\"value\" style=\"width: 469.017px;\">2560 X 1600</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Touch Screen</td>\n<td class=\"value\" style=\"width: 469.017px;\">No</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 130.983px;\">Display Features</td>\n<td class=\"value\" style=\"width: 469.017px;\">LED-backlit; 227 pixels per inch with support for millions of colors</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Memory</strong></p>\n<table class=\"data-table flex-table\" style=\"height: 59px;\" border=\"0.5\" width=\"391\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM</td>\n<td class=\"value\" style=\"width: 231.633px;\">8GB</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">RAM Type</td>\n<td class=\"value\" style=\"width: 231.633px;\">Unified memory</td>\n</tr>\n<tr>\n<td class=\"name\" style=\"width: 159.367px;\">Removable</td>\n<td class=\"value\" style=\"width: 231.633px;\">No</td>\n</tr>\n</tbody>\n</table>",
+  "color": "Red,Black,Blue",
+  "size": "13,14,17",
+  "productID": {
+    "$oid": "654dbf1eabda0c85053c98ff"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]

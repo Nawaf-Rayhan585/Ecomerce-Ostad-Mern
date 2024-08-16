@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65ad56a34173ab0e31d622cd"
+  },
+  "userID": {
+    "$oid": "65749b6036b023a8b6c5ea73"
+  },
+  "productID": {
+    "$oid": "64f8ba608fcc62fe3de37a2e"
+  },
+  "invoiceID": {
+    "$oid": "65ad56a34173ab0e31d622cb"
+  },
+  "qty": "1",
+  "price": "70",
+  "color": "Red",
+  "size": "14",
+  "createdAt": {
+    "$date": "2024-01-21T17:38:43.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T17:38:43.456Z"
+  }
+}]

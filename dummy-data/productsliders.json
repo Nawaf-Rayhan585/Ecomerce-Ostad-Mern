@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "64f8895d502e1b80556da15f"
+  },
+  "title": "Apple 15 Inch MacBook Air",
+  "des": "Get a new 15-inch MacBook Air laptop with M2 chip from only $108.25 per month. Select a model or customise your own",
+  "price": "Only 1,0000 BDT",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple.png",
+  "productID": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+},{
+  "_id": {
+    "$oid": "65d1e6b7f6cf66930442a9b2"
+  },
+  "title": "Apple 15 Inch MacBook Air",
+  "des": "Get a new 15-inch MacBook Air laptop with M2 chip from only $108.25 per month. Select a model or customise your own",
+  "price": "Only 1,0000 BDT",
+  "image": "https://photo.teamrabbil.com/images/2023/10/03/Apple.png",
+  "productID": {
+    "$oid": "654dbf25abda0c85053c9902"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T17:17:56.893Z"
+  }
+}]
