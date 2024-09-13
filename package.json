@@ -4,12 +4,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.7",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
@@ -17,9 +18,12 @@
     "express": "^4.19.2",
     "express-mongo-sanitize": "^2.2.0",
     "express-rate-limit": "^7.4.0",
+    "form-data": "^4.0.0",
     "helmet": "^7.1.0",
     "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.5.1",
+    "nodemailer": "^6.9.14",
     "nodemon": "^3.1.4",
     "xss-clean": "^0.1.4"
   }

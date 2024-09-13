@@ -53,5 +53,6 @@ exports.ProductDetails = async(req,res) => {
 }
 
 exports.ProductReviewList = async(req,res) => {
-    
+    let result = await ReviewListService(req);
+    return res.status(200).json(result)
 }

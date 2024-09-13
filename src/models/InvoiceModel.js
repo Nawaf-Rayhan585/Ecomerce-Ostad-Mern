@@ -11,7 +11,6 @@ const DataSchema = mongoose.Schema({
     tran_id:{type:String , required:true},
     delivary_status:{type:String , required:true},
     payment_status:{type:String , required:true},
-    payment_status:{type:String , required:true},
     total:{type:String , required:true},
     vat:{type:String , required:true},
 
